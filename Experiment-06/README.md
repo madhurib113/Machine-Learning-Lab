@@ -111,7 +111,6 @@ The confusion matrix and classification report were also generated for the Stack
 
 - `ML_06.ipynb` – Python implementation and results
 - `ML_06.pdf` – Experiment report
-- `requirements.txt` – Python dependencies required to run the notebook
 
 ## Dependencies
 
