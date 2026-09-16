@@ -123,8 +123,3 @@ The following Python libraries are required:
 - Matplotlib
 - Scikit-learn
 - XGBoost
-
-Install the dependencies using:
-
-```bash
-pip install -r requirements.txt
