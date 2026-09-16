@@ -106,7 +106,6 @@ The results were calculated using MAE, MSE, RMSE and R² score. :contentReferenc
 
 - `ML_03.ipynb` – Jupyter Notebook containing the implementation
 - `ML_03.pdf` – Report containing the experiment details and results
-- `requirements.txt` – Python dependencies required to run the notebook
 
 ## Dependencies
 
