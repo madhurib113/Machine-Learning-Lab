@@ -112,7 +112,6 @@ The best test accuracy in the experiment was obtained by SVM and Logistic Regres
 
 - `ML_07.ipynb` – Python implementation and results
 - `ML_07.pdf` – Experiment report
-- `requirements.txt` – Python dependencies required to run the notebook
 
 ## Dependencies
 
